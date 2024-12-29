@@ -1,5 +1,3 @@
-<script setup lang="ts"></script>
-
 <template>
     <div class="bg-slate-100 relative">
         <div class="container py-32 text-center flex flex-col gap-8 relative">
@@ -45,4 +43,8 @@
             </div>
         </div>
     </div>
+
+    
 </template>
+
+
